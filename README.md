@@ -22,4 +22,4 @@ visualización en Power BI Desktop.
 
 ## Archivos
 - `Reporte_Appol.pbix` — archivo del dashboard
-- `Dashboard_Appol.png` — captura del dashboard
+- `Dashboard_Appol.jpg` — captura del dashboard
