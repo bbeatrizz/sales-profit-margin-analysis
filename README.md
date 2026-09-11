@@ -2,6 +2,7 @@
 
 Dashboard interactivo desarrollado en Power BI para analizar la utilidad y los márgenes de venta por país, continente y categoría de producto en el periodo 2017-2019.
 
+![DashboardAppol](DashboardAppol.jpg)
 
 ## Contexto
 Proyecto realizado siguiendo el curso "Microsoft Power BI - Curso de Power BI Desktop" 
